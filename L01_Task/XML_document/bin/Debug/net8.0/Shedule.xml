@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<shedule xmlns="https://github.com/Vx2equallyW" xmlns:vxt="https://github.com/Vx2equallyW/xml_example">
+	<week week_type="odd">
+		<day date="2025-02-07">
+			<class class_type="lecture" class_number="2">
+				<vxt:teacher vxt:job_title="lector">
+					<vxt:full_name>
+						Назимов Александр Сергеевич
+					</vxt:full_name>
+				</vxt:teacher>
+				<class_name> Теория информационных процессов и систем </class_name>
+				<class_auditorium> 4 лек </class_auditorium>
+			</class>
+			<class class_type="practic" class_number="3">
+				<vxt:teacher job_title="sport_man">
+					<vxt:full_name> Козлов С. Д. </vxt:full_name>
+				</vxt:teacher>
+				<class_name> Дисциплины по физической культуре и спорту - базовые виды спорта </class_name>
+				<!--  Better name would be: class_auditorium instead of class_auditorium_number  -->
+				<class_auditorium> Лыж/б </class_auditorium>
+			</class>
+		</day>
+	</week>
+</shedule>

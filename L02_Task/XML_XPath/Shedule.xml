@@ -1,0 +1,364 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<shedule xmlns="https://github.com/Vx2equallyW" xmlns:vxt="https://github.com/Vx2equallyW/xml_example">
+	<week week_type="odd">
+
+		<day date="2025-02-03">
+
+         <class class_type="lecture" class_number="3">
+				<vxt:teacher vxt:job_title="lector">
+
+					<vxt:full_name>
+                  Алексеева Г. А.
+					</vxt:full_name>
+
+				</vxt:teacher>
+
+            <class_name>
+               Архитектура информационных систем
+            </class_name>
+
+            <class_auditorium>
+               4 лек
+            </class_auditorium>
+			</class>
+
+			<class class_type="practic" class_number="4">
+
+				<vxt:teacher vxt:job_title="lector">
+					<vxt:full_name>
+                  Любимов О. В.
+					</vxt:full_name>
+				</vxt:teacher>
+
+            <class_name>
+               Основы теории изобретательства
+            </class_name>
+
+            <class_auditorium>
+               3114
+            </class_auditorium>
+			</class>
+
+      </day>
+
+		<day date="2025-02-04">
+
+			<class class_type="lecture" class_number="4">
+				<vxt:teacher vxt:job_title="lector">
+					<vxt:full_name>
+                  Протодьяконов А. В.
+					</vxt:full_name>
+				</vxt:teacher>
+
+            <class_name>
+               Теория информационных процессов и систем
+            </class_name>
+
+            <class_auditorium>
+               4 лек
+            </class_auditorium>
+			</class>
+
+			<class class_type="lecture" class_number="5">
+				<vxt:teacher job_title="lector">
+               <vxt:full_name> Симикова А. A. </vxt:full_name>
+				</vxt:teacher>
+
+            <class_name>
+               Теория автоматического управления
+            </class_name>
+
+            <class_auditorium>
+               4 лек
+            </class_auditorium>
+			</class>
+
+		</day>
+
+		<day date="2025-02-06">
+
+			<class class_type="laboratory" class_number="2">
+				<vxt:teacher vxt:job_title="lector">
+					<vxt:full_name>
+                  Алексеева Г. А.
+					</vxt:full_name>
+				</vxt:teacher>
+
+            <class_name>
+               Интеллектуальный анализ исследовательской информации и первичная обработка информационных потоков
+            </class_name>
+
+            <class_auditorium>
+               3108
+            </class_auditorium>
+			</class>
+
+			<class class_type="laboratory" class_number="3">
+				<vxt:teacher vxt:job_title="lector">
+					<vxt:full_name>
+                  Алексеева Г. А.
+					</vxt:full_name>
+				</vxt:teacher>
+
+            <class_name>
+               Архитектура информационных систем
+            </class_name>
+
+            <class_auditorium>
+               3301
+            </class_auditorium>
+			</class>
+
+		</day>
+
+		<day date="2025-02-07">
+
+			<class class_type="lecture" class_number="2">
+				<vxt:teacher vxt:job_title="lector">
+					<vxt:full_name>
+						Назимов Александр Сергеевич
+					</vxt:full_name>
+				</vxt:teacher>
+
+            <class_name>
+               Теория информационных процессов и систем
+            </class_name>
+
+            <class_auditorium>
+               4 лек
+            </class_auditorium>
+			</class>
+
+			<class class_type="practic" class_number="3">
+				<vxt:teacher job_title="sport_man">
+					<vxt:full_name> Козлов С. Д. </vxt:full_name>
+				</vxt:teacher>
+
+            <class_name>
+               Дисциплины по физической культуре и спорту - базовые виды спорта
+            </class_name>
+
+            <class_auditorium>
+               Лыж/б
+            </class_auditorium>
+			</class>
+
+      </day>
+
+      <day date="2025-02-08">
+
+			<class class_type="lecture" class_number="1">
+				<vxt:teacher vxt:job_title="lector">
+					<vxt:full_name>
+                  Зиновьев В. В.
+					</vxt:full_name>
+				</vxt:teacher>
+
+            <class_name>
+               Моделирование процессов и систем
+            </class_name>
+
+            <class_auditorium>
+               4 лек
+            </class_auditorium>
+			</class>
+
+			<class class_type="laboratory" class_number="2">
+				<vxt:teacher vxt:job_title="lector">
+					<vxt:full_name>
+                  Кузнецов И. С.
+					</vxt:full_name>
+				</vxt:teacher>
+
+            <class_name>
+               Моделирование процессов и систем
+            </class_name>
+
+            <class_auditorium>
+               3315а
+            </class_auditorium>
+			</class>
+
+			<class class_type="laboratory" class_number="3">
+				<vxt:teacher vxt:job_title="lector">
+					<vxt:full_name>
+                  Ерошевич К. В.
+					</vxt:full_name>
+				</vxt:teacher>
+
+            <class_name>
+               Теория информационных процессов и систем
+            </class_name>
+
+            <class_auditorium>
+               3315а
+            </class_auditorium>
+			</class>
+
+			<class class_type="laboratory" class_number="3">
+				<vxt:teacher vxt:job_title="lector">
+					<vxt:full_name>
+                  Ерошевич К. В.
+					</vxt:full_name>
+				</vxt:teacher>
+
+            <class_name>
+               Теория автоматического управления
+            </class_name>
+
+            <class_auditorium>
+               3108
+            </class_auditorium>
+			</class>
+
+		</day>
+
+	</week>
+
+   <week week_type="even">
+
+		<day date="2025-02-11">
+
+         <class class_type="laboratory" class_number="2">
+				<vxt:teacher vxt:job_title="lector">
+
+					<vxt:full_name>
+                  Ивина О. А.
+					</vxt:full_name>
+
+				</vxt:teacher>
+
+            <class_name>
+               Управление IT-проектами
+            </class_name>
+
+            <class_auditorium>
+               3108
+            </class_auditorium>
+			</class>
+
+			<class class_type="laboratory" class_number="3">
+				<vxt:teacher vxt:job_title="lector">
+					<vxt:full_name>
+                  Алексеева Г. А.
+					</vxt:full_name>
+				</vxt:teacher>
+
+            <class_name>
+               Архитектура информационных систем
+            </class_name>
+
+            <class_auditorium>
+               3301
+            </class_auditorium>
+			</class>
+
+			<class class_type="laboratory" class_number="3">
+				<vxt:teacher vxt:job_title="lector">
+					<vxt:full_name>
+                  Протодьяконов А. В.
+					</vxt:full_name>
+				</vxt:teacher>
+
+            <class_name>
+               Интеллектуальный анализ исследовательской информации и первичная обработка информационных потоков
+            </class_name>
+
+            <class_auditorium>
+               4 лек
+            </class_auditorium>
+			</class>
+
+      </day>
+
+		<day date="2025-02-13">
+
+			<class class_type="lecture" class_number="3">
+				<vxt:teacher job_title="lector">
+               <vxt:full_name>
+                  Симикова А. A.
+               </vxt:full_name>
+				</vxt:teacher>
+
+            <class_name>
+               Управление IT-проектами
+            </class_name>
+
+            <class_auditorium>
+               4 лек
+            </class_auditorium>
+			</class>
+
+			<class class_type="laboratory" class_number="4">
+				<vxt:teacher vxt:job_title="lector">
+					<vxt:full_name>
+                  Алексеева Г. А.
+					</vxt:full_name>
+				</vxt:teacher>
+
+            <class_name>
+               Интеллектуальный анализ исследовательской информации и первичная обработка информационных потоков
+            </class_name>
+
+            <class_auditorium>
+               3108
+            </class_auditorium>
+			</class>
+
+		</day>
+
+		<day date="2025-02-15">
+
+			<class class_type="laboratory" class_number="1">
+				<vxt:teacher vxt:job_title="lector">
+					<vxt:full_name>
+                  Кузнецов И. С.
+					</vxt:full_name>
+				</vxt:teacher>
+
+            <class_name>
+               Моделирование процессов и систем
+            </class_name>
+
+            <class_auditorium>
+               3305
+            </class_auditorium>
+			</class>
+
+			<class class_type="laboratory" class_number="2">
+				<vxt:teacher vxt:job_title="lector">
+					<vxt:full_name>
+                  Ерошевич К. В.
+					</vxt:full_name>
+				</vxt:teacher>
+
+            <class_name>
+               Теория информационных процессов и систем
+            </class_name>
+
+            <class_auditorium>
+               3315а
+            </class_auditorium>
+			</class>
+
+			<class class_type="laboratory" class_number="3">
+				<vxt:teacher vxt:job_title="lector">
+					<vxt:full_name>
+                  Симикова А. А.
+					</vxt:full_name>
+				</vxt:teacher>
+
+            <class_name>
+               Теория автоматического управления
+            </class_name>
+
+            <class_auditorium>
+               3210
+            </class_auditorium>
+			</class>
+
+		</day>
+
+   </week>
+
+</shedule>
