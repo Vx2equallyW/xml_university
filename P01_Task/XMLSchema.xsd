@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xs:schema
+   targetNamespace="http://tempuri.org/XMLSchema.xsd"
+   elementFormDefault="qualified"
+   xmlns="https://github.com/"
+   xmlns:vxt="https://github.com/Vx2equallyW/"
+   xmlns:xs = "http://www.w3.org/2001/XMLSchema">
+   <!-- Здесь располагается содержимое XML-схемы -->
+   <xs:annotation>
+      <xs:documentation xml:lang="ru-ru">
+         XML-схема. Расписание.
+      </xs:documentation>
+   </xs:annotation>
+
+   <!-- Определение корневого элемента shedule-->
+   <xs:element name="shedule" type="Shedule"/>
+   <xs:complexType name="Shedule">
+      <xs:sequence>
+         <xs:element name="week" type="Week" minOccurs="2" maxOccurs="unbounded" />
+      </xs:sequence>
+   </xs:complexType>
+
+   <!-- Определение сложного типа Week -->
+   <xs:complexType name="Week">
+      <xs:attribute name="week_type" type="Week_type" use="required" />
+      <xs:sequence>
+         <xs:element name="day" type="Day" maxOccurs="7"/>
+      </xs:sequence>
+   </xs:complexType>
+
+   <!-- Определение типа для атрибута Week_type -->
+   <xs:simpleType name="Week_type">
+      <xs:restriction base="xs:string">
+         <xs:enumeration value="odd" />
+         <xs:enumeration value="even" />
+      </xs:restriction>
+   </xs:simpleType>
+
+   <!-- Определение сложного типа Day -->
+   <xs:complexType name="Day">
+      <xs:attribute name="date" type="xs:date" use="required" />
+      <xs:attribute name="week_day" type="Week_day" use="required" />
+      <xs:sequence>
+         <xs:element name="class" type="Class" minOccurs="1" maxOccurs="7"/>
+      </xs:sequence>
+   </xs:complexType>
+
+   <!-- Определение типа для атрибута Week_day -->
+   <xs:simpleType name="Week_day">
+      <xs:restriction base="xs:string">
+         <xs:enumeration value="monday" />
+         <xs:enumeration value="tuesday" />
+         <xs:enumeration value="thursday" />
+         <xs:enumeration value="friday" />
+         <xs:enumeration value="saturday" />
+         <xs:enumeration value="sunday" />
+      </xs:restriction>
+   </xs:simpleType>
+
+   <!-- Определение сложного типа Class -->
+   <xs:complexType name="Class">
+      <xs:attribute name="class_type" type="Class_type" use="required" />
+      <xs:attribute name="class_number" type="Class_number" use="required" />
+      <xs:sequence>
+         <xs:element name="teacher" type="Teacher" minOccurs="1" maxOccurs="1"/>
+         <xs:element name="class_name" type="xs:string" minOccurs="1" maxOccurs="1"/>
+         <xs:element name="class_auditorium" type="xs:string" minOccurs="1" maxOccurs="1"/>
+      </xs:sequence>
+   </xs:complexType>
+
+   <!-- Определение типа для атрибута Class_type -->
+   <xs:simpleType name="Class_type">
+      <xs:restriction base="xs:string">
+         <xs:enumeration value="lecture" />
+         <xs:enumeration value="practic" />
+         <xs:enumeration value="laboratory" />
+      </xs:restriction>
+   </xs:simpleType>
+
+   <!-- Определение типа для атрибута Class_number -->
+   <xs:simpleType name="Class_number">
+      <xs:restriction base="xs:int">
+         <xs:minInclusive value="1" />
+         <xs:maxInclusive value="7" />
+      </xs:restriction>
+   </xs:simpleType>
+
+   <!-- Определение сложного типа Teacher -->
+   <xs:complexType name="Teacher">
+      <xs:attribute name="job_title" type="xs:string" />
+      <xs:sequence>
+         <xs:element name="full_name" type="xs:string" minOccurs="1" maxOccurs="1"/>
+      </xs:sequence>
+   </xs:complexType>
+
+</xs:schema>
