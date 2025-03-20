@@ -1,52 +1,32 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Vx2equallyW\\Programming\\University\\SystemArchitecture\\XML_document\\",
+  "WorkspaceRootPath": "C:\\All Files\\My shitty programs\\xml_university\\L01_Task\\XML_document\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2949260F-F02B-421D-A750-9CAC25F6927C}|XML_document.csproj|c:\\users\\vx2equallyw\\programming\\university\\systemarchitecture\\xml_document\\xml_document.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{2949260F-F02B-421D-A750-9CAC25F6927C}|XML_document.csproj|solutionrelative:xml_document.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2949260F-F02B-421D-A750-9CAC25F6927C}|XML_document.csproj|c:\\users\\vx2equallyw\\programming\\university\\systemarchitecture\\xml_document\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2949260F-F02B-421D-A750-9CAC25F6927C}|XML_document.csproj|c:\\all files\\my shitty programs\\xml_university\\l01_task\\xml_document\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2949260F-F02B-421D-A750-9CAC25F6927C}|XML_document.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 1,
+      "Orientation": 0,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "XML_document",
-              "DocumentMoniker": "C:\\Users\\Vx2equallyW\\Programming\\University\\SystemArchitecture\\XML_document\\XML_document.csproj",
-              "RelativeDocumentMoniker": "XML_document.csproj",
-              "ToolTip": "C:\\Users\\Vx2equallyW\\Programming\\University\\SystemArchitecture\\XML_document\\XML_document.csproj",
-              "RelativeToolTip": "XML_document.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-05T20:15:57.721Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Vx2equallyW\\Programming\\University\\SystemArchitecture\\XML_document\\Program.cs",
+              "DocumentMoniker": "C:\\All Files\\My shitty programs\\xml_university\\L01_Task\\XML_document\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Vx2equallyW\\Programming\\University\\SystemArchitecture\\XML_document\\Program.cs",
+              "ToolTip": "C:\\All Files\\My shitty programs\\xml_university\\L01_Task\\XML_document\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAEIAAAAAODMzMzMrwFEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T06:17:19.511Z",
+              "WhenOpened": "2025-03-20T11:11:31.228Z",
               "EditorCaption": ""
             }
           ]

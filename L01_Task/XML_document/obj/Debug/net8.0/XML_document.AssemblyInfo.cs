@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("XML_document")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca8af8cc53dbbbc9ab8ecbbd5b58ad878c4a1c85")]
 [assembly: System.Reflection.AssemblyProductAttribute("XML_document")]
 [assembly: System.Reflection.AssemblyTitleAttribute("XML_document")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
