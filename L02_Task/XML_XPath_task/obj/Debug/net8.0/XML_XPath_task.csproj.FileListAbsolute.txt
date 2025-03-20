@@ -12,3 +12,18 @@ C:\Users\Vx2equallyW\Programming\University\SystemArchitecture\XML_XPath\XML_XPa
 C:\Users\Vx2equallyW\Programming\University\SystemArchitecture\XML_XPath\XML_XPath_task\obj\Debug\net8.0\XML_XPath_task.pdb
 C:\Users\Vx2equallyW\Programming\University\SystemArchitecture\XML_XPath\XML_XPath_task\obj\Debug\net8.0\XML_XPath_task.genruntimeconfig.cache
 C:\Users\Vx2equallyW\Programming\University\SystemArchitecture\XML_XPath\XML_XPath_task\obj\Debug\net8.0\ref\XML_XPath_task.dll
+C:\All Files\My shitty programs\xml_university\L02_Task\XML_XPath_task\bin\Debug\net8.0\XML_XPath_task.exe
+C:\All Files\My shitty programs\xml_university\L02_Task\XML_XPath_task\bin\Debug\net8.0\XML_XPath_task.deps.json
+C:\All Files\My shitty programs\xml_university\L02_Task\XML_XPath_task\bin\Debug\net8.0\XML_XPath_task.runtimeconfig.json
+C:\All Files\My shitty programs\xml_university\L02_Task\XML_XPath_task\bin\Debug\net8.0\XML_XPath_task.dll
+C:\All Files\My shitty programs\xml_university\L02_Task\XML_XPath_task\bin\Debug\net8.0\XML_XPath_task.pdb
+C:\All Files\My shitty programs\xml_university\L02_Task\XML_XPath_task\obj\Debug\net8.0\XML_XPath_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\All Files\My shitty programs\xml_university\L02_Task\XML_XPath_task\obj\Debug\net8.0\XML_XPath_task.AssemblyInfoInputs.cache
+C:\All Files\My shitty programs\xml_university\L02_Task\XML_XPath_task\obj\Debug\net8.0\XML_XPath_task.AssemblyInfo.cs
+C:\All Files\My shitty programs\xml_university\L02_Task\XML_XPath_task\obj\Debug\net8.0\XML_XPath_task.csproj.CoreCompileInputs.cache
+C:\All Files\My shitty programs\xml_university\L02_Task\XML_XPath_task\obj\Debug\net8.0\XML_XPath_task.sourcelink.json
+C:\All Files\My shitty programs\xml_university\L02_Task\XML_XPath_task\obj\Debug\net8.0\XML_XPath_task.dll
+C:\All Files\My shitty programs\xml_university\L02_Task\XML_XPath_task\obj\Debug\net8.0\refint\XML_XPath_task.dll
+C:\All Files\My shitty programs\xml_university\L02_Task\XML_XPath_task\obj\Debug\net8.0\XML_XPath_task.pdb
+C:\All Files\My shitty programs\xml_university\L02_Task\XML_XPath_task\obj\Debug\net8.0\XML_XPath_task.genruntimeconfig.cache
+C:\All Files\My shitty programs\xml_university\L02_Task\XML_XPath_task\obj\Debug\net8.0\ref\XML_XPath_task.dll
