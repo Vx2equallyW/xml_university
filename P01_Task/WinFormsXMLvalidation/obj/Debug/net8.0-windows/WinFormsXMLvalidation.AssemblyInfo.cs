@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WinFormsXMLvalidation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca8af8cc53dbbbc9ab8ecbbd5b58ad878c4a1c85")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9553061cbab68895458999e57520b001f3a87e4c")]
 [assembly: System.Reflection.AssemblyProductAttribute("WinFormsXMLvalidation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WinFormsXMLvalidation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

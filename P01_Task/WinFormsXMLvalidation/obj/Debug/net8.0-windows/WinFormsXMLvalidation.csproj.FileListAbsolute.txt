@@ -15,3 +15,20 @@ C:\All Files\My shitty programs\xml_university\P01_Task\WinFormsXMLvalidation\ob
 C:\All Files\My shitty programs\xml_university\P01_Task\WinFormsXMLvalidation\obj\Debug\net8.0-windows\WinFormsXMLvalidation.pdb
 C:\All Files\My shitty programs\xml_university\P01_Task\WinFormsXMLvalidation\obj\Debug\net8.0-windows\WinFormsXMLvalidation.genruntimeconfig.cache
 C:\All Files\My shitty programs\xml_university\P01_Task\WinFormsXMLvalidation\obj\Debug\net8.0-windows\ref\WinFormsXMLvalidation.dll
+C:\Users\Vx2equallyW\Programming\University\SystemArchitecture\P01_Task\WinFormsXMLvalidation\bin\Debug\net8.0-windows\WinFormsXMLvalidation.exe
+C:\Users\Vx2equallyW\Programming\University\SystemArchitecture\P01_Task\WinFormsXMLvalidation\bin\Debug\net8.0-windows\WinFormsXMLvalidation.deps.json
+C:\Users\Vx2equallyW\Programming\University\SystemArchitecture\P01_Task\WinFormsXMLvalidation\bin\Debug\net8.0-windows\WinFormsXMLvalidation.runtimeconfig.json
+C:\Users\Vx2equallyW\Programming\University\SystemArchitecture\P01_Task\WinFormsXMLvalidation\bin\Debug\net8.0-windows\WinFormsXMLvalidation.dll
+C:\Users\Vx2equallyW\Programming\University\SystemArchitecture\P01_Task\WinFormsXMLvalidation\bin\Debug\net8.0-windows\WinFormsXMLvalidation.pdb
+C:\Users\Vx2equallyW\Programming\University\SystemArchitecture\P01_Task\WinFormsXMLvalidation\obj\Debug\net8.0-windows\WinFormsXMLvalidation.Form1.resources
+C:\Users\Vx2equallyW\Programming\University\SystemArchitecture\P01_Task\WinFormsXMLvalidation\obj\Debug\net8.0-windows\WinFormsXMLvalidation.csproj.GenerateResource.cache
+C:\Users\Vx2equallyW\Programming\University\SystemArchitecture\P01_Task\WinFormsXMLvalidation\obj\Debug\net8.0-windows\WinFormsXMLvalidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vx2equallyW\Programming\University\SystemArchitecture\P01_Task\WinFormsXMLvalidation\obj\Debug\net8.0-windows\WinFormsXMLvalidation.AssemblyInfoInputs.cache
+C:\Users\Vx2equallyW\Programming\University\SystemArchitecture\P01_Task\WinFormsXMLvalidation\obj\Debug\net8.0-windows\WinFormsXMLvalidation.AssemblyInfo.cs
+C:\Users\Vx2equallyW\Programming\University\SystemArchitecture\P01_Task\WinFormsXMLvalidation\obj\Debug\net8.0-windows\WinFormsXMLvalidation.csproj.CoreCompileInputs.cache
+C:\Users\Vx2equallyW\Programming\University\SystemArchitecture\P01_Task\WinFormsXMLvalidation\obj\Debug\net8.0-windows\WinFormsXMLvalidation.sourcelink.json
+C:\Users\Vx2equallyW\Programming\University\SystemArchitecture\P01_Task\WinFormsXMLvalidation\obj\Debug\net8.0-windows\WinFormsXMLvalidation.dll
+C:\Users\Vx2equallyW\Programming\University\SystemArchitecture\P01_Task\WinFormsXMLvalidation\obj\Debug\net8.0-windows\refint\WinFormsXMLvalidation.dll
+C:\Users\Vx2equallyW\Programming\University\SystemArchitecture\P01_Task\WinFormsXMLvalidation\obj\Debug\net8.0-windows\WinFormsXMLvalidation.pdb
+C:\Users\Vx2equallyW\Programming\University\SystemArchitecture\P01_Task\WinFormsXMLvalidation\obj\Debug\net8.0-windows\WinFormsXMLvalidation.genruntimeconfig.cache
+C:\Users\Vx2equallyW\Programming\University\SystemArchitecture\P01_Task\WinFormsXMLvalidation\obj\Debug\net8.0-windows\ref\WinFormsXMLvalidation.dll

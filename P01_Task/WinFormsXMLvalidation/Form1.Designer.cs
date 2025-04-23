@@ -144,9 +144,9 @@
             // groupBox2
             // 
             groupBox2.Controls.Add(ListBoxResultOutput);
-            groupBox2.Location = new Point(612, 53);
+            groupBox2.Location = new Point(585, 53);
             groupBox2.Name = "groupBox2";
-            groupBox2.Size = new Size(600, 392);
+            groupBox2.Size = new Size(1070, 484);
             groupBox2.TabIndex = 2;
             groupBox2.TabStop = false;
             groupBox2.Text = "Результаты проверки";
@@ -154,9 +154,11 @@
             // ListBoxResultOutput
             // 
             ListBoxResultOutput.FormattingEnabled = true;
-            ListBoxResultOutput.Location = new Point(6, 22);
+            ListBoxResultOutput.HorizontalScrollbar = true;
+            ListBoxResultOutput.Location = new Point(6, 26);
             ListBoxResultOutput.Name = "ListBoxResultOutput";
-            ListBoxResultOutput.Size = new Size(588, 364);
+            ListBoxResultOutput.SelectionMode = SelectionMode.MultiExtended;
+            ListBoxResultOutput.Size = new Size(1047, 444);
             ListBoxResultOutput.TabIndex = 0;
             // 
             // openFileDialog1
@@ -167,7 +169,7 @@
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1295, 757);
+            ClientSize = new Size(1780, 751);
             Controls.Add(groupBox2);
             Controls.Add(ButtonValidate);
             Controls.Add(groupBox1);

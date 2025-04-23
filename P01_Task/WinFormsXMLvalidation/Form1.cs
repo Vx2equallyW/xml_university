@@ -45,9 +45,10 @@ namespace WinFormsXMLvalidation
 
         private void ButtonValidate_Click(object sender, EventArgs e)
         {
+            ListBoxResultOutput.Items.Clear();
             XmlReaderSettings rdSets = new XmlReaderSettings();
             rdSets.ValidationType = ValidationType.Schema;
-            rdSets.Schemas.Add(nameSpaceInput.Text, xsdDocumentPath.Text);
+            var schema = rdSets.Schemas.Add(nameSpaceInput.Text, xsdDocumentPath.Text);
             rdSets.ValidationEventHandler += new ValidationEventHandler(ReaderValidationEventHandler);
             XmlReader reader = XmlReader.Create(xmlDocumentPath.Text, rdSets);
             while (reader.Read()) ;
@@ -55,11 +56,12 @@ namespace WinFormsXMLvalidation
             {
                 ListBoxResultOutput.Items.Add("Ошибок не обнаружено! XML-документ соответсвтвует схеме.");
             }
+            rdSets.Schemas.Remove(schema);
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            nameSpaceInput.Text = "http://tempuri.org/XMLSchema.xsd";
+            nameSpaceInput.Text = "https://github.com/Vx2equallyW";
         }
     }
 }

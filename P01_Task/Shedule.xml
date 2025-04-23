@@ -1,15 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<shedule xmlns="https://github.com/Vx2equallyW" xmlns:vxt="https://github.com/Vx2equallyW/xml_example">
+<shedule xmlns="https://github.com/Vx2equallyW"
+	xmlns:xsi="XMLSchema.xsd">
 	<week week_type="odd">
 
 		<day date="2025-02-03" week_day="monday">
 
 			<class class_type="lecture" class_number="3" id="1">
-				<vxt:teacher vxt:job_title="lector">
+				<teacher job_title="lector">
 
-					<vxt:full_name>Алексеева Г. А.</vxt:full_name>
+					<full_name>Алексеева Г. А.</full_name>
 
-				</vxt:teacher>
+				</teacher>
 
 				<class_name>Архитектура информационных систем</class_name>
 
@@ -18,9 +19,9 @@
 
 			<class class_type="practic" class_number="4" id="2">
 
-					<vxt:teacher vxt:job_title="lector">
-						<vxt:full_name>Любимов О. В.</vxt:full_name>
-					</vxt:teacher>
+					<teacher job_title="lector">
+						<full_name>Любимов О. В.</full_name>
+					</teacher>
 
 				<class_name>Основы теории изобретательства</class_name>
 
@@ -32,9 +33,9 @@
 		<day date="2025-02-04" week_day="tuesday">
 
 			<class class_type="lecture" class_number="4" id="3">
-				<vxt:teacher vxt:job_title="lector">
-					<vxt:full_name>Протодьяконов А. В.</vxt:full_name>
-				</vxt:teacher>
+				<teacher job_title="lector">
+					<full_name>Протодьяконов А. В.</full_name>
+				</teacher>
 
 				<class_name>Теория информационных процессов и систем</class_name>
 
@@ -42,9 +43,9 @@
 			</class>
 
 			<class class_type="lecture" class_number="5" id="4">
-				<vxt:teacher vxt:job_title="lector">
-				   <vxt:full_name> Симикова А. A. </vxt:full_name>
-				</vxt:teacher>
+				<teacher job_title="lector">
+				   <full_name> Симикова А. A. </full_name>
+				</teacher>
 
 				<class_name>Теория автоматического управления</class_name>
 
@@ -56,9 +57,9 @@
 		<day date="2025-02-06" week_day="thursday">
 
 			<class class_type="laboratory" class_number="2" id="5">
-				<vxt:teacher vxt:job_title="lector">
-					<vxt:full_name>Алексеева Г. А.</vxt:full_name>
-				</vxt:teacher>
+				<teacher job_title="lector">
+					<full_name>Алексеева Г. А.</full_name>
+				</teacher>
 
 				<class_name>Интеллектуальный анализ исследовательской информации и первичная обработка информационных потоков</class_name>
 
@@ -66,9 +67,9 @@
 			</class>
 
 			<class class_type="laboratory" class_number="3" id="6">
-				<vxt:teacher vxt:job_title="lector">
-					<vxt:full_name>Алексеева Г. А.</vxt:full_name>
-				</vxt:teacher>
+				<teacher job_title="lector">
+					<full_name>Алексеева Г. А.</full_name>
+				</teacher>
 
 				<class_name>Архитектура информационных систем</class_name>
 
@@ -80,9 +81,9 @@
 		<day date="2025-02-07" week_day="friday">
 
 			<class class_type="lecture" class_number="2" id="7">
-				<vxt:teacher vxt:job_title="lector">
-					<vxt:full_name>Назимов Александр Сергеевич</vxt:full_name>
-				</vxt:teacher>
+				<teacher job_title="lector">
+					<full_name>Назимов Александр Сергеевич</full_name>
+				</teacher>
 
 				<class_name>Теория информационных процессов и систем</class_name>
 
@@ -90,9 +91,9 @@
 			</class>
 
 			<class class_type="practic" class_number="3" id="8">
-				<vxt:teacher vxt:job_title="sport_man">
-					<vxt:full_name>Козлов С. Д. </vxt:full_name>
-				</vxt:teacher>
+				<teacher job_title="sport_man">
+					<full_name>Козлов С. Д. </full_name>
+				</teacher>
 
 				<class_name>Дисциплины по физической культуре и спорту - базовые виды спорта</class_name>
 
@@ -104,9 +105,9 @@
       <day date="2025-02-08" week_day="saturday">
 
 			<class class_type="lecture" class_number="1" id="9">
-				<vxt:teacher vxt:job_title="lector">
-					<vxt:full_name>Зиновьев В. В.</vxt:full_name>
-				</vxt:teacher>
+				<teacher job_title="lector">
+					<full_name>Зиновьев В. В.</full_name>
+				</teacher>
 
 				<class_name>Моделирование процессов и систем</class_name>
 
@@ -114,9 +115,9 @@
 			</class>
 
 			<class class_type="laboratory" class_number="2" id="10">
-				<vxt:teacher vxt:job_title="lector">
-					<vxt:full_name>Кузнецов И. С.</vxt:full_name>
-				</vxt:teacher>
+				<teacher job_title="lector">
+					<full_name>Кузнецов И. С.</full_name>
+				</teacher>
 
 				<class_name>Моделирование процессов и систем</class_name>
 
@@ -124,9 +125,9 @@
 			</class>
 
 			<class class_type="laboratory" class_number="3" id="11">
-				<vxt:teacher vxt:job_title="lector">
-					<vxt:full_name>Ерошевич К. В.</vxt:full_name>
-				</vxt:teacher>
+				<teacher job_title="lector">
+					<full_name>Ерошевич К. В.</full_name>
+				</teacher>
 
 				<class_name>Теория информационных процессов и систем</class_name>
 
@@ -134,9 +135,9 @@
 			</class>
 
 			<class class_type="laboratory" class_number="4" id="12">
-				<vxt:teacher vxt:job_title="lector">
-					<vxt:full_name>Симикова А. А.</vxt:full_name>
-				</vxt:teacher>
+				<teacher job_title="lector">
+					<full_name>Симикова А. А.</full_name>
+				</teacher>
 
 				<class_name>Теория автоматического управления</class_name>
 
@@ -152,9 +153,9 @@
 		<day date="2025-02-11" week_day="tuesday">
 
          <class class_type="laboratory" class_number="2" id="13">
-				<vxt:teacher vxt:job_title="lector">
-					<vxt:full_name>Ивина О. А.</vxt:full_name>
-				</vxt:teacher>
+				<teacher job_title="lector">
+					<full_name>Ивина О. А.</full_name>
+				</teacher>
 
             <class_name>Управление IT-проектами</class_name>
 
@@ -162,9 +163,9 @@
 			</class>
 
 			<class class_type="laboratory" class_number="3" id="14">
-				<vxt:teacher vxt:job_title="lector">
-					<vxt:full_name>Алексеева Г. А.</vxt:full_name>
-				</vxt:teacher>
+				<teacher job_title="lector">
+					<full_name>Алексеева Г. А.</full_name>
+				</teacher>
 
 				<class_name>Архитектура информационных систем</class_name>
 
@@ -172,9 +173,9 @@
 			</class>
 
 			<class class_type="laboratory" class_number="4" id="15">
-				<vxt:teacher vxt:job_title="lector">
-					<vxt:full_name>Протодьяконов А. В.</vxt:full_name>
-				</vxt:teacher>
+				<teacher job_title="lector">
+					<full_name>Протодьяконов А. В.</full_name>
+				</teacher>
 
 				<class_name>Интеллектуальный анализ исследовательской информации и первичная обработка информационных потоков</class_name>
 
@@ -186,9 +187,9 @@
 		<day date="2025-02-13" week_day="thursday">
 
 			<class class_type="lecture" class_number="3" id="16">
-				<vxt:teacher vxt:job_title="lector">
-               <vxt:full_name>Ивина О. А.</vxt:full_name>
-				</vxt:teacher>
+				<teacher job_title="lector">
+               <full_name>Ивина О. А.</full_name>
+				</teacher>
 
 				<class_name>Управление IT-проектами</class_name>
 
@@ -196,9 +197,9 @@
 			</class>
 
 			<class class_type="laboratory" class_number="4" id="17">
-				<vxt:teacher vxt:job_title="lector">
-					<vxt:full_name>Алексеева Г. А.</vxt:full_name>
-				</vxt:teacher>
+				<teacher job_title="lector">
+					<full_name>Алексеева Г. А.</full_name>
+				</teacher>
 
 				<class_name>Интеллектуальный анализ исследовательской информации и первичная обработка информационных потоков</class_name>
 
@@ -210,9 +211,9 @@
 		<day date="2025-02-15" week_day="saturday">
 
 			<class class_type="laboratory" class_number="1" id="18">
-				<vxt:teacher vxt:job_title="lector">
-					<vxt:full_name>Кузнецов И. С.</vxt:full_name>
-				</vxt:teacher>
+				<teacher job_title="lector">
+					<full_name>Кузнецов И. С.</full_name>
+				</teacher>
 
             <class_name>Моделирование процессов и систем</class_name>
 
@@ -220,9 +221,9 @@
 			</class>
 
 			<class class_type="laboratory" class_number="2" id="19">
-				<vxt:teacher vxt:job_title="lector">
-					<vxt:full_name>Ерошевич К. В.</vxt:full_name>
-				</vxt:teacher>
+				<teacher job_title="lector">
+					<full_name>Ерошевич К. В.</full_name>
+				</teacher>
 
             <class_name>Теория информационных процессов и систем</class_name>
 
@@ -230,9 +231,9 @@
 			</class>
 
 			<class class_type="laboratory" class_number="3" id="20">
-				<vxt:teacher vxt:job_title="lector">
-					<vxt:full_name>Симикова А. А.</vxt:full_name>
-				</vxt:teacher>
+				<teacher job_title="lector">
+					<full_name>Симикова А. А.</full_name>
+				</teacher>
 
             <class_name>Теория автоматического управления</class_name>
 

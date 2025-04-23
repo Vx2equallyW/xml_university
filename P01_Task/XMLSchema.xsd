@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <xs:schema
-   targetNamespace="http://tempuri.org/XMLSchema.xsd"
+   targetNamespace="https://github.com/Vx2equallyW"
    elementFormDefault="qualified"
-   xmlns="http://tempuri.org/XMLSchema.xsd"
-   xmlns:vxt="https://github.com/Vx2equallyW/"
-   xmlns:xs = "http://www.w3.org/2001/XMLSchema">
+   xmlns:mstns="http://tempuri.org/XMLSchema.xsd"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns="https://github.com/Vx2equallyW"
+   xmlns:vxt="https://github.com/Vx2equallyW/xml_example">
    <!-- Здесь располагается содержимое XML-схемы -->
    <xs:annotation>
       <xs:documentation xml:lang="ru-ru">

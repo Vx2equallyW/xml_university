@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCinemaBuilding xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CinemaBuilding CinemaName="1">
+    <CinemaAdress>1</CinemaAdress>
+    <Films>
+      <Film>
+        <Name>Test</Name>
+        <Genre>Test</Genre>
+        <Sessions>
+          <Session>
+            <Time>TestTime</Time>
+            <TicketPrice>73</TicketPrice>
+            <TicketPurchases>15</TicketPurchases>
+          </Session>
+          <Session>
+            <Time>NextTextTime</Time>
+            <TicketPrice>150</TicketPrice>
+            <TicketPurchases>86</TicketPurchases>
+          </Session>
+        </Sessions>
+      </Film>
+      <Film>
+        <Name>Test2</Name>
+        <Genre>Test22</Genre>
+        <Sessions>
+          <Session>
+            <Time>TimeInTest2</Time>
+            <TicketPrice>114</TicketPrice>
+            <TicketPurchases>36</TicketPurchases>
+          </Session>
+        </Sessions>
+      </Film>
+      <Film>
+        <Name>333</Name>
+        <Genre>54</Genre>
+        <Sessions>
+          <Session>
+            <Time>56</Time>
+            <TicketPrice>7</TicketPrice>
+            <TicketPurchases>8</TicketPurchases>
+          </Session>
+        </Sessions>
+      </Film>
+    </Films>
+  </CinemaBuilding>
+  <CinemaBuilding CinemaName="1">
+    <CinemaAdress>1</CinemaAdress>
+    <Films>
+      <Film>
+        <Name>TestCinema2</Name>
+        <Genre>None</Genre>
+        <Sessions>
+          <Session>
+            <Time>TestTimeCinema2</Time>
+            <TicketPrice>170</TicketPrice>
+            <TicketPurchases>38</TicketPurchases>
+          </Session>
+        </Sessions>
+      </Film>
+    </Films>
+  </CinemaBuilding>
+  <CinemaBuilding CinemaName="222">
+    <CinemaAdress>178</CinemaAdress>
+    <Films />
+  </CinemaBuilding>
+</ArrayOfCinemaBuilding>
