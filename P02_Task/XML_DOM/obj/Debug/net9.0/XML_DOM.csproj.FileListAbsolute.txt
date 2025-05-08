@@ -1,0 +1,15 @@
+/home/keyboardnerd/Programming/University/xml_university/P02_Task/XML_DOM/bin/Debug/net9.0/XML_DOM
+/home/keyboardnerd/Programming/University/xml_university/P02_Task/XML_DOM/bin/Debug/net9.0/XML_DOM.deps.json
+/home/keyboardnerd/Programming/University/xml_university/P02_Task/XML_DOM/bin/Debug/net9.0/XML_DOM.runtimeconfig.json
+/home/keyboardnerd/Programming/University/xml_university/P02_Task/XML_DOM/bin/Debug/net9.0/XML_DOM.dll
+/home/keyboardnerd/Programming/University/xml_university/P02_Task/XML_DOM/bin/Debug/net9.0/XML_DOM.pdb
+/home/keyboardnerd/Programming/University/xml_university/P02_Task/XML_DOM/obj/Debug/net9.0/XML_DOM.GeneratedMSBuildEditorConfig.editorconfig
+/home/keyboardnerd/Programming/University/xml_university/P02_Task/XML_DOM/obj/Debug/net9.0/XML_DOM.AssemblyInfoInputs.cache
+/home/keyboardnerd/Programming/University/xml_university/P02_Task/XML_DOM/obj/Debug/net9.0/XML_DOM.AssemblyInfo.cs
+/home/keyboardnerd/Programming/University/xml_university/P02_Task/XML_DOM/obj/Debug/net9.0/XML_DOM.csproj.CoreCompileInputs.cache
+/home/keyboardnerd/Programming/University/xml_university/P02_Task/XML_DOM/obj/Debug/net9.0/XML_DOM.sourcelink.json
+/home/keyboardnerd/Programming/University/xml_university/P02_Task/XML_DOM/obj/Debug/net9.0/XML_DOM.dll
+/home/keyboardnerd/Programming/University/xml_university/P02_Task/XML_DOM/obj/Debug/net9.0/refint/XML_DOM.dll
+/home/keyboardnerd/Programming/University/xml_university/P02_Task/XML_DOM/obj/Debug/net9.0/XML_DOM.pdb
+/home/keyboardnerd/Programming/University/xml_university/P02_Task/XML_DOM/obj/Debug/net9.0/XML_DOM.genruntimeconfig.cache
+/home/keyboardnerd/Programming/University/xml_university/P02_Task/XML_DOM/obj/Debug/net9.0/ref/XML_DOM.dll

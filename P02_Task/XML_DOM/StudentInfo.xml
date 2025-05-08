@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Данные о студентах-->
+<students xmlns="https://github.com/Vx2equallyW" xmlns:vxt="https://github.com/Vx2equallyW/xml_university">
+  <student id="0">
+    <full_name>Иванов Иван Иванович</full_name>
+    <group>ИИб-233</group>
+    <sex>м</sex>
+    <date_of_birth>07.07.2003</date_of_birth>
+    <average_score>94.6</average_score>
+  </student>
+</students>
