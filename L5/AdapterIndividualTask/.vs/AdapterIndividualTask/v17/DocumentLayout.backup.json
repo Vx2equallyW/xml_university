@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vx2equallyW\\Programming\\University\\SystemArchitecture\\L5\\AdapterIndividualTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19871B80-7690-49A0-AC04-707A56A38DC6}|AdapterIndividualTask.csproj|c:\\users\\vx2equallyw\\programming\\university\\systemarchitecture\\l5\\adapterindividualtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19871B80-7690-49A0-AC04-707A56A38DC6}|AdapterIndividualTask.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC9018D-74CF-4651-9BDE-D9B5002C1348}|..\\ClassesLib\\ClassesLib.csproj|c:\\users\\vx2equallyw\\programming\\university\\systemarchitecture\\l5\\classeslib\\adapterclasslib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC9018D-74CF-4651-9BDE-D9B5002C1348}|..\\ClassesLib\\ClassesLib.csproj|c:\\users\\vx2equallyw\\programming\\university\\systemarchitecture\\l5\\classeslib\\mathematicpendulumlib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdapterClassLib.cs",
+              "DocumentMoniker": "C:\\Users\\Vx2equallyW\\Programming\\University\\SystemArchitecture\\L5\\ClassesLib\\AdapterClassLib.cs",
+              "RelativeDocumentMoniker": "..\\ClassesLib\\AdapterClassLib.cs",
+              "ToolTip": "C:\\Users\\Vx2equallyW\\Programming\\University\\SystemArchitecture\\L5\\ClassesLib\\AdapterClassLib.cs",
+              "RelativeToolTip": "..\\ClassesLib\\AdapterClassLib.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T19:28:45.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MathematicPendulumLib.cs",
+              "DocumentMoniker": "C:\\Users\\Vx2equallyW\\Programming\\University\\SystemArchitecture\\L5\\ClassesLib\\MathematicPendulumLib.cs",
+              "RelativeDocumentMoniker": "..\\ClassesLib\\MathematicPendulumLib.cs",
+              "ToolTip": "C:\\Users\\Vx2equallyW\\Programming\\University\\SystemArchitecture\\L5\\ClassesLib\\MathematicPendulumLib.cs",
+              "RelativeToolTip": "..\\ClassesLib\\MathematicPendulumLib.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T19:28:03.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vx2equallyW\\Programming\\University\\SystemArchitecture\\L5\\AdapterIndividualTask\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Vx2equallyW\\Programming\\University\\SystemArchitecture\\L5\\AdapterIndividualTask\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T19:15:14.676Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

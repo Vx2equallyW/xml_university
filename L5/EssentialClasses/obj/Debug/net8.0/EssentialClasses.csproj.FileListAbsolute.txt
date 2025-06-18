@@ -1,0 +1,12 @@
+C:\Users\Vx2equallyW\Programming\University\SystemArchitecture\L5\EssentialClasses\bin\Debug\net8.0\EssentialClasses.deps.json
+C:\Users\Vx2equallyW\Programming\University\SystemArchitecture\L5\EssentialClasses\bin\Debug\net8.0\EssentialClasses.dll
+C:\Users\Vx2equallyW\Programming\University\SystemArchitecture\L5\EssentialClasses\bin\Debug\net8.0\EssentialClasses.pdb
+C:\Users\Vx2equallyW\Programming\University\SystemArchitecture\L5\EssentialClasses\obj\Debug\net8.0\EssentialClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vx2equallyW\Programming\University\SystemArchitecture\L5\EssentialClasses\obj\Debug\net8.0\EssentialClasses.AssemblyInfoInputs.cache
+C:\Users\Vx2equallyW\Programming\University\SystemArchitecture\L5\EssentialClasses\obj\Debug\net8.0\EssentialClasses.AssemblyInfo.cs
+C:\Users\Vx2equallyW\Programming\University\SystemArchitecture\L5\EssentialClasses\obj\Debug\net8.0\EssentialClasses.csproj.CoreCompileInputs.cache
+C:\Users\Vx2equallyW\Programming\University\SystemArchitecture\L5\EssentialClasses\obj\Debug\net8.0\EssentialClasses.sourcelink.json
+C:\Users\Vx2equallyW\Programming\University\SystemArchitecture\L5\EssentialClasses\obj\Debug\net8.0\EssentialClasses.dll
+C:\Users\Vx2equallyW\Programming\University\SystemArchitecture\L5\EssentialClasses\obj\Debug\net8.0\refint\EssentialClasses.dll
+C:\Users\Vx2equallyW\Programming\University\SystemArchitecture\L5\EssentialClasses\obj\Debug\net8.0\EssentialClasses.pdb
+C:\Users\Vx2equallyW\Programming\University\SystemArchitecture\L5\EssentialClasses\obj\Debug\net8.0\ref\EssentialClasses.dll

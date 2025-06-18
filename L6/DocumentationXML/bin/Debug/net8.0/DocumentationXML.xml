@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DocumentationXML</name>
+    </assembly>
+    <members>
+        <member name="M:DocumentationXML.Program.CalculateTriangleArea(System.Double,System.Double)">
+            <summary>
+            Метод, который считает площадь треугольника по 3-м сторонам.
+            </summary>
+            <param name="firstSide"> Первая сторона треугольника </param>
+            <param name="secondSide"> Вторая сторона треугольника </param>
+            <returns>Возвращает площадь треугольника в м2 (double)</returns>
+        </member>
+        <member name="M:DocumentationXML.Program.FindSemiPerimeter(System.Double,System.Double,System.Double)">
+            <summary>
+            Метод, который считает полупериметр треугольника.
+            </summary>
+            <returns>Возвращает возвращает полупериметр треугольника в м2 (double)</returns>
+        </member>
+    </members>
+</doc>

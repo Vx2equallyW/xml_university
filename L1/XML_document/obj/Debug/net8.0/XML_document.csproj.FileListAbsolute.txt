@@ -1,0 +1,29 @@
+C:\Users\Vx2equallyW\Programming\University\System architecture\XML_document\bin\Debug\net8.0\XML_document.exe
+C:\Users\Vx2equallyW\Programming\University\System architecture\XML_document\bin\Debug\net8.0\XML_document.deps.json
+C:\Users\Vx2equallyW\Programming\University\System architecture\XML_document\bin\Debug\net8.0\XML_document.runtimeconfig.json
+C:\Users\Vx2equallyW\Programming\University\System architecture\XML_document\bin\Debug\net8.0\XML_document.dll
+C:\Users\Vx2equallyW\Programming\University\System architecture\XML_document\bin\Debug\net8.0\XML_document.pdb
+C:\Users\Vx2equallyW\Programming\University\System architecture\XML_document\obj\Debug\net8.0\XML_document.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vx2equallyW\Programming\University\System architecture\XML_document\obj\Debug\net8.0\XML_document.AssemblyInfoInputs.cache
+C:\Users\Vx2equallyW\Programming\University\System architecture\XML_document\obj\Debug\net8.0\XML_document.AssemblyInfo.cs
+C:\Users\Vx2equallyW\Programming\University\System architecture\XML_document\obj\Debug\net8.0\XML_document.csproj.CoreCompileInputs.cache
+C:\Users\Vx2equallyW\Programming\University\System architecture\XML_document\obj\Debug\net8.0\XML_document.dll
+C:\Users\Vx2equallyW\Programming\University\System architecture\XML_document\obj\Debug\net8.0\refint\XML_document.dll
+C:\Users\Vx2equallyW\Programming\University\System architecture\XML_document\obj\Debug\net8.0\XML_document.pdb
+C:\Users\Vx2equallyW\Programming\University\System architecture\XML_document\obj\Debug\net8.0\XML_document.genruntimeconfig.cache
+C:\Users\Vx2equallyW\Programming\University\System architecture\XML_document\obj\Debug\net8.0\ref\XML_document.dll
+C:\All Files\My shitty programs\xml_university\L01_Task\XML_document\bin\Debug\net8.0\XML_document.exe
+C:\All Files\My shitty programs\xml_university\L01_Task\XML_document\bin\Debug\net8.0\XML_document.deps.json
+C:\All Files\My shitty programs\xml_university\L01_Task\XML_document\bin\Debug\net8.0\XML_document.runtimeconfig.json
+C:\All Files\My shitty programs\xml_university\L01_Task\XML_document\bin\Debug\net8.0\XML_document.dll
+C:\All Files\My shitty programs\xml_university\L01_Task\XML_document\bin\Debug\net8.0\XML_document.pdb
+C:\All Files\My shitty programs\xml_university\L01_Task\XML_document\obj\Debug\net8.0\XML_document.GeneratedMSBuildEditorConfig.editorconfig
+C:\All Files\My shitty programs\xml_university\L01_Task\XML_document\obj\Debug\net8.0\XML_document.AssemblyInfoInputs.cache
+C:\All Files\My shitty programs\xml_university\L01_Task\XML_document\obj\Debug\net8.0\XML_document.AssemblyInfo.cs
+C:\All Files\My shitty programs\xml_university\L01_Task\XML_document\obj\Debug\net8.0\XML_document.csproj.CoreCompileInputs.cache
+C:\All Files\My shitty programs\xml_university\L01_Task\XML_document\obj\Debug\net8.0\XML_document.sourcelink.json
+C:\All Files\My shitty programs\xml_university\L01_Task\XML_document\obj\Debug\net8.0\XML_document.dll
+C:\All Files\My shitty programs\xml_university\L01_Task\XML_document\obj\Debug\net8.0\refint\XML_document.dll
+C:\All Files\My shitty programs\xml_university\L01_Task\XML_document\obj\Debug\net8.0\XML_document.pdb
+C:\All Files\My shitty programs\xml_university\L01_Task\XML_document\obj\Debug\net8.0\XML_document.genruntimeconfig.cache
+C:\All Files\My shitty programs\xml_university\L01_Task\XML_document\obj\Debug\net8.0\ref\XML_document.dll

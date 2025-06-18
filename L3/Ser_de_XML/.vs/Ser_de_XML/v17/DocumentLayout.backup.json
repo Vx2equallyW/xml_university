@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vx2equallyW\\Programming\\University\\SystemArchitecture\\L03_Task\\Ser_de_XML\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CECC4F23-079D-4BBE-BB0B-F481ADD7E85B}|Ser_de_XML.csproj|c:\\users\\vx2equallyw\\programming\\university\\systemarchitecture\\l03_task\\ser_de_xml\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CECC4F23-079D-4BBE-BB0B-F481ADD7E85B}|Ser_de_XML.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CECC4F23-079D-4BBE-BB0B-F481ADD7E85B}|Ser_de_XML.csproj|C:\\Users\\Vx2equallyW\\Programming\\University\\SystemArchitecture\\L03_Task\\Ser_de_XML\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CECC4F23-079D-4BBE-BB0B-F481ADD7E85B}|Ser_de_XML.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5AF3D72-F0BA-4524-8C0E-AC6AF6416D2E}|..\\BankContribution\\BankContribution.csproj|c:\\users\\vx2equallyw\\programming\\university\\systemarchitecture\\l03_task\\bankcontribution\\bankcontributionclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Vx2equallyW\\Programming\\University\\SystemArchitecture\\L03_Task\\Ser_de_XML\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Vx2equallyW\\Programming\\University\\SystemArchitecture\\L03_Task\\Ser_de_XML\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAADUAAACAMDMzMzMhwGUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T18:15:37.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankContributionClasses.cs",
+              "DocumentMoniker": "C:\\Users\\Vx2equallyW\\Programming\\University\\SystemArchitecture\\L03_Task\\BankContribution\\BankContributionClasses.cs",
+              "RelativeDocumentMoniker": "..\\BankContribution\\BankContributionClasses.cs",
+              "ToolTip": "C:\\Users\\Vx2equallyW\\Programming\\University\\SystemArchitecture\\L03_Task\\BankContribution\\BankContributionClasses.cs",
+              "RelativeToolTip": "..\\BankContribution\\BankContributionClasses.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAA4wC0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T17:27:45.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Vx2equallyW\\Programming\\University\\SystemArchitecture\\L03_Task\\Ser_de_XML\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Vx2equallyW\\Programming\\University\\SystemArchitecture\\L03_Task\\Ser_de_XML\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:44:03.408Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

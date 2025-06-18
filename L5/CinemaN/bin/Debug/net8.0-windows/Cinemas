@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAdapterCinema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AdapterCinema CinemaName="t">
+    <CinemaAdress>t</CinemaAdress>
+    <Films>
+      <Film>
+        <Name>t</Name>
+        <Genre>t</Genre>
+        <Sessions>
+          <Session>
+            <Time>t</Time>
+            <TicketPrice>1</TicketPrice>
+            <TicketPurchases>1</TicketPurchases>
+          </Session>
+        </Sessions>
+      </Film>
+    </Films>
+  </AdapterCinema>
+</ArrayOfAdapterCinema>

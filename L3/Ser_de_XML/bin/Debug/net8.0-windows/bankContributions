@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBankContribution xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BankContribution AccountNumber="123">
+    <Contributor>
+      <Name>А</Name>
+      <Surname>А</Surname>
+      <Patronymic>А</Patronymic>
+    </Contributor>
+    <ContributionDate>11.11.2024</ContributionDate>
+    <ContributionAmount>20000</ContributionAmount>
+    <Precentage>10</Precentage>
+  </BankContribution>
+  <BankContribution AccountNumber="345">
+    <Contributor>
+      <Name>Б</Name>
+      <Surname>Б</Surname>
+      <Patronymic>Б</Patronymic>
+    </Contributor>
+    <ContributionDate>04.01.2025</ContributionDate>
+    <ContributionAmount>100000</ContributionAmount>
+    <Precentage>5</Precentage>
+  </BankContribution>
+  <BankContribution AccountNumber="34544">
+    <Contributor>
+      <Name>В</Name>
+      <Surname>В</Surname>
+      <Patronymic>В</Patronymic>
+    </Contributor>
+    <ContributionDate>04.01.2025</ContributionDate>
+    <ContributionAmount>100000</ContributionAmount>
+    <Precentage>5</Precentage>
+  </BankContribution>
+</ArrayOfBankContribution>

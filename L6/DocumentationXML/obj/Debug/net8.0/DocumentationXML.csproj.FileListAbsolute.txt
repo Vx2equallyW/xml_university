@@ -1,0 +1,17 @@
+C:\Users\Vx2equallyW\Programming\University\SystemArchitecture\L6\DocumentationXML\bin\Debug\net8.0\DocumentationXML.exe
+C:\Users\Vx2equallyW\Programming\University\SystemArchitecture\L6\DocumentationXML\bin\Debug\net8.0\DocumentationXML.deps.json
+C:\Users\Vx2equallyW\Programming\University\SystemArchitecture\L6\DocumentationXML\bin\Debug\net8.0\DocumentationXML.runtimeconfig.json
+C:\Users\Vx2equallyW\Programming\University\SystemArchitecture\L6\DocumentationXML\bin\Debug\net8.0\DocumentationXML.dll
+C:\Users\Vx2equallyW\Programming\University\SystemArchitecture\L6\DocumentationXML\bin\Debug\net8.0\DocumentationXML.pdb
+C:\Users\Vx2equallyW\Programming\University\SystemArchitecture\L6\DocumentationXML\bin\Debug\net8.0\DocumentationXML.xml
+C:\Users\Vx2equallyW\Programming\University\SystemArchitecture\L6\DocumentationXML\obj\Debug\net8.0\DocumentationXML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vx2equallyW\Programming\University\SystemArchitecture\L6\DocumentationXML\obj\Debug\net8.0\DocumentationXML.AssemblyInfoInputs.cache
+C:\Users\Vx2equallyW\Programming\University\SystemArchitecture\L6\DocumentationXML\obj\Debug\net8.0\DocumentationXML.AssemblyInfo.cs
+C:\Users\Vx2equallyW\Programming\University\SystemArchitecture\L6\DocumentationXML\obj\Debug\net8.0\DocumentationXML.csproj.CoreCompileInputs.cache
+C:\Users\Vx2equallyW\Programming\University\SystemArchitecture\L6\DocumentationXML\obj\Debug\net8.0\DocumentationXML.sourcelink.json
+C:\Users\Vx2equallyW\Programming\University\SystemArchitecture\L6\DocumentationXML\obj\Debug\net8.0\DocumentationXML.dll
+C:\Users\Vx2equallyW\Programming\University\SystemArchitecture\L6\DocumentationXML\obj\Debug\net8.0\refint\DocumentationXML.dll
+C:\Users\Vx2equallyW\Programming\University\SystemArchitecture\L6\DocumentationXML\obj\Debug\net8.0\DocumentationXML.xml
+C:\Users\Vx2equallyW\Programming\University\SystemArchitecture\L6\DocumentationXML\obj\Debug\net8.0\DocumentationXML.pdb
+C:\Users\Vx2equallyW\Programming\University\SystemArchitecture\L6\DocumentationXML\obj\Debug\net8.0\DocumentationXML.genruntimeconfig.cache
+C:\Users\Vx2equallyW\Programming\University\SystemArchitecture\L6\DocumentationXML\obj\Debug\net8.0\ref\DocumentationXML.dll
